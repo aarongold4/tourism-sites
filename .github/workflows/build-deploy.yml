@@ -1,23 +1,56 @@
 name: build-and-deploy
-# Push to main -> build + audit every tourism site -> publish each site's dist to its own deploy-<domain> branch.
-# Hostinger (Git auto-deploy) pulls deploy-<domain> into that site's public_html.
+# Push to main -> build + audit only the sites that changed (all sites if shared code changed)
+# -> publish each site's dist to its own deploy-<domain> branch, which Hostinger pulls into public_html.
+# New sites are picked up automatically: any folder sites/<domain>/ with a site.json.
 on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      sites:
+        description: "Space-separated domains to rebuild (blank = all)"
+        required: false
 permissions:
   contents: write
-concurrency:
-  group: deploy
-  cancel-in-progress: false
 jobs:
-  site:
+  plan:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    outputs:
+      sites: ${{ steps.pick.outputs.sites }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - id: pick
+        env:
+          BEFORE: ${{ github.event.before }}
+          INPUT: ${{ github.event.inputs.sites }}
+        run: |
+          all=$(ls -d sites/*/ | xargs -n1 basename | while read d; do [ -f "sites/$d/site.json" ] && echo "$d"; done)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            list="${INPUT:-$all}"
+          elif [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then
+            list="$all"
+          else
+            changed=$(git diff --name-only "$BEFORE" "$GITHUB_SHA")
+            if echo "$changed" | grep -qE '^(tools/|package\.json|\.github/)'; then list="$all"
+            else list=$(echo "$changed" | grep -oE '^sites/[^/]+' | cut -d/ -f2 | sort -u | while read d; do [ -f "sites/$d/site.json" ] && echo "$d"; done); fi
+          fi
+          json=$(printf '%s\n' $list | grep -v '^$' | jq -R . | jq -sc .)
+          echo "sites=$json" >> "$GITHUB_OUTPUT"
+          echo "Building: $json"
+  site:
+    needs: plan
+    if: needs.plan.outputs.sites != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
     strategy:
       fail-fast: false
+      max-parallel: 5
       matrix:
-        domain: [petratourism.com, gizatourism.com, tbilisitourism.com, tashkenttourism.com, northmacedoniatourism.com]
+        domain: ${{ fromJson(needs.plan.outputs.sites) }}
+    concurrency:
+      group: deploy-${{ matrix.domain }}
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -43,4 +76,3 @@ jobs:
           git add -A
           git commit -qm "Deploy $D from ${GITHUB_SHA::7}"
           git push -qf "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:deploy-$D"
-          echo "Published deploy-$D"

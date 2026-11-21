@@ -49,3 +49,12 @@ In the Claude cloud sandbox: prefix with `PLAYWRIGHT_BROWSERS_PATH=/opt/pw-brows
 - `sites/<domain>/content_ideas.json` — `{ideas:[{id, date, title, path, section, search_phrase, why, priority, status}]}`; status `proposed` → `drafted` → `published` | `discarded`.
 - Drafts are written as `pages/<slug>.json` with `"status": "draft"` (pushed to main; drafts are not built), plus a Google Doc for review.
 - Aaron approves on his shared **Site Approvals** page (artifact `https://claude.ai/artifact/AXUrNrYvA99Q4uFELzrH8u`, collection `drafts`, row id `<domain>-<idea id>`, fields `site, idea_id, title, why_now, doc_url, status ("pending"), trigger_id, created, updated, result_url, result_note`). `trigger_id` = the "Tourism sites: Write & Publish" task. Publish → that task sets the page to `published` and pushes. Discard → status `discarded`, page file deleted.
+
+## Weekly schedule (one task per site, 6:37 PM ET)
+Sun petratourism.com · Mon gizatourism.com · Tue tbilisitourism.com · Wed tashkenttourism.com · Thu northmacedoniatourism.com. Fri/Sat are free for sites 6–7; with 8–10 sites, pair a second site onto the lightest days (each run still handles only ONE site). Publishing from the approvals page is a separate task (trig_01DZ14PNCjVWkJKbntvyeUSr) shared by all sites.
+
+## Adding a new tourism site
+1. `node tools/mirror.mjs <domain>` (site must be live on Hostinger first), then write `sites/<domain>/site.json`, `links.json` (an entry for every tour/attraction page), `content_ideas.json`, and `pages/*.json` for any missing privacy/terms page. Build + audit until 0 failures.
+2. Push. The Action picks up any `sites/<domain>/` with a site.json automatically and creates `deploy-<domain>`.
+3. Aaron connects Hostinger Git for the site (branch `deploy-<domain>`) and adds its GA4 ID.
+4. Create that site's weekly scheduled task by copying an existing one's prompt with the domain swapped, on a free weekday.
