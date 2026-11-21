@@ -187,6 +187,8 @@ DirectoryIndex index.html
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule ^(.+)/$ /$1 [R=301,L]
   RewriteRule ^(index\\.html|_shell\\.html)$ - [L]
+  # homepage = pre-rendered index.html
+  RewriteRule ^$ /index.html [L]
   # temporary redirects: pages linked but not written yet
 ${Object.entries(activeRedirects).map(([a, b]) => `  RewriteRule ^${a.slice(1).replace(/[.]/g, '\\.')}$ ${b} [R=302,L]`).join('\n')}
   # pre-rendered pages
