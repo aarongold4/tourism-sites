@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_pages/
+Disallow: /_shell.html
+
+Sitemap: https://northmacedoniatourism.com/sitemap.xml
