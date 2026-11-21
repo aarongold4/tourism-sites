@@ -50,7 +50,7 @@ In the Claude cloud sandbox: prefix with `PLAYWRIGHT_BROWSERS_PATH=/opt/pw-brows
 - Drafts are written as `pages/<slug>.json` with `"status": "draft"` (pushed to main; drafts are not built), plus a Google Doc for review.
 - Aaron approves on his shared **Site Approvals** page (artifact `https://claude.ai/artifact/AXUrNrYvA99Q4uFELzrH8u`, collection `drafts`, row id `<domain>-<idea id>`, fields `site, idea_id, title, why_now, doc_url, status ("pending"), trigger_id, created, updated, result_url, result_note`). `trigger_id` = the "Tourism sites: Write & Publish" task. Publish → that task sets the page to `published` and pushes. Discard → status `discarded`, page file deleted.
 
-## Weekly schedule (one task per site, 6:37 PM ET)
+## Weekly schedule (one task per site, 6:37 PM ET; each run drafts up to 3 new pages, max 6 awaiting approval per site)
 Sun petratourism.com · Mon gizatourism.com · Tue tbilisitourism.com · Wed tashkenttourism.com · Thu northmacedoniatourism.com. Fri/Sat are free for sites 6–7; with 8–10 sites, pair a second site onto the lightest days (each run still handles only ONE site). Publishing from the approvals page is a separate task (trig_01DZ14PNCjVWkJKbntvyeUSr) shared by all sites.
 
 ## Adding a new tourism site
