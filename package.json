@@ -1,0 +1,3 @@
+{ "name": "tourism-sites", "private": true, "type": "module",
+  "scripts": { "build": "node tools/build.mjs", "audit": "node tools/audit.mjs" },
+  "dependencies": { "playwright": "1.63.0" } }

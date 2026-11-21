@@ -1,0 +1,132 @@
+{
+ "_readme": "Booking buttons. One entry per page path; first item is the main button, others show as outline buttons. To track commissions, fill affiliate_ids (added to matching links automatically at build) or replace a url with your own tracking link. All links render rel=\"sponsored nofollow\" with the disclosure below.",
+ "disclosure": "Affiliate link: if you book through this button we may earn a commission, at no extra cost to you.",
+ "disclosure_href": "/affiliate-disclosure",
+ "affiliate_ids": {
+  "getyourguide_partner_id": "",
+  "viator_pid": "",
+  "tiqets_partner": "",
+  "booking_aid": ""
+ },
+ "routes": {
+  "/things-to-do": [
+   {
+    "label": "Compare Tashkent tours",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+city+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/hazrat-imam-complex": [
+   {
+    "label": "Tours that include Hazrat Imam",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+Hazrat+Imam+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/chorsu-bazaar": [
+   {
+    "label": "Tours that include Chorsu Bazaar",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+Chorsu+Bazaar+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/tashkent-metro": [
+   {
+    "label": "See Tashkent metro tours",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+metro+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/center-islamic-civilization": [
+   {
+    "label": "Book a Tashkent city tour",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+city+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/amir-temur-square": [
+   {
+    "label": "Book a Tashkent city tour",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+city+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/old-city": [
+   {
+    "label": "See Old City walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+old+city+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/old-city/kukeldash-madrasa": [
+   {
+    "label": "Tours that include Kukeldash",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+old+city+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/old-city/barak-khan-madrasa": [
+   {
+    "label": "Tours that include Barak-Khan",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+Hazrat+Imam+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/old-city/old-town-mahallas": [
+   {
+    "label": "See Old City walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Tashkent+old+city+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips": [
+   {
+    "label": "Compare day trips from Tashkent",
+    "url": "https://www.getyourguide.com/s/?q=day+trip+from+Tashkent",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/samarkand": [
+   {
+    "label": "See Samarkand day trips",
+    "url": "https://www.getyourguide.com/s/?q=Samarkand+day+trip+from+Tashkent",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/bukhara": [
+   {
+    "label": "See Bukhara tours",
+    "url": "https://www.getyourguide.com/s/?q=Bukhara+tour+from+Tashkent",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/khiva": [
+   {
+    "label": "See Khiva tours",
+    "url": "https://www.getyourguide.com/s/?q=Khiva+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/chimgan-and-charvak": [
+   {
+    "label": "See Chimgan & Charvak day trips",
+    "url": "https://www.getyourguide.com/s/?q=Chimgan+Charvak+day+trip+from+Tashkent",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/fergana-valley": [
+   {
+    "label": "See Fergana Valley tours",
+    "url": "https://www.getyourguide.com/s/?q=Fergana+Valley+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/silk-road-itinerary": [
+   {
+    "label": "See Silk Road tours of Uzbekistan",
+    "url": "https://www.getyourguide.com/s/?q=Uzbekistan+Silk+Road+tour+Samarkand+Bukhara+Khiva",
+    "provider": "GetYourGuide"
+   }
+  ]
+ }
+}

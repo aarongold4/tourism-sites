@@ -1,0 +1,304 @@
+{
+ "_readme": "Booking buttons. One entry per page path; first item is the main button, others show as outline buttons. To track commissions, fill affiliate_ids (added to matching links automatically at build) or replace a url with your own tracking link. All links render rel=\"sponsored nofollow\" with the disclosure below.",
+ "disclosure": "Affiliate link: if you book through this button we may earn a commission, at no extra cost to you.",
+ "disclosure_href": "/affiliate-disclosure",
+ "affiliate_ids": {
+  "getyourguide_partner_id": "",
+  "viator_pid": "",
+  "tiqets_partner": "",
+  "booking_aid": ""
+ },
+ "routes": {
+  "/tours": [
+   {
+    "label": "Compare Giza Pyramids tours",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/from-cairo": [
+   {
+    "label": "See Pyramids tours from Cairo",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+day+tour+from+Cairo",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/sound-and-light-show": [
+   {
+    "label": "Get Sound and Light Show tickets",
+    "url": "https://www.getyourguide.com/s/?q=Pyramids+Sound+and+Light+Show",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/half-day": [
+   {
+    "label": "See half-day Pyramids tours",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+half+day+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/private": [
+   {
+    "label": "See private Giza tours",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+private+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/giza-saqqara-dahshur": [
+   {
+    "label": "See Giza, Saqqara & Dahshur tours",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Saqqara+Dahshur+day+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/avoiding-commission-stops": [
+   {
+    "label": "See no-shopping-stop Pyramids tours",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+tour+no+shopping+stops",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/cairo-day-tours": [
+   {
+    "label": "See Cairo day tours",
+    "url": "https://www.getyourguide.com/s/?q=Cairo+day+tour+Pyramids+Egyptian+Museum",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/camel-rides": [
+   {
+    "label": "See Giza camel rides",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+camel+ride",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided Pyramids tour",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+guided+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/great-pyramid-of-khufu": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Great+Pyramid+of+Giza+inside+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/sphinx": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Great+Sphinx+Giza+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/saqqara": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Saqqara+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/pyramid-of-khafre": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Pyramid+of+Khafre+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/pyramid-of-menkaure": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+guided+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/solar-boat-museum": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Grand+Egyptian+Museum+Khufu+boat",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/dahshur": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Dahshur+Bent+Pyramid+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/memphis": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Memphis+Saqqara+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/panoramic-viewpoint": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+panoramic+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/tomb-of-meresankh": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+private+Egyptologist+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/inside-the-pyramids": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Great+Pyramid+inside+ticket+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/abusir": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Abusir+pyramids+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/step-pyramid-of-djoser": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Step+Pyramid+of+Djoser+Saqqara+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/serapeum": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Serapeum+Saqqara+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/workers-cemetery": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+private+Egyptologist+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/valley-temple": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+Sphinx+Valley+Temple+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/queens-pyramids": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+guided+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/western-cemetery": [
+   {
+    "label": "Buy official Giza tickets",
+    "url": "https://egymonuments.com/",
+    "provider": "egymonuments.com (official)"
+   },
+   {
+    "label": "Book a guided tour",
+    "url": "https://www.getyourguide.com/s/?q=Giza+Pyramids+private+Egyptologist+tour",
+    "provider": "GetYourGuide"
+   }
+  ]
+ }
+}

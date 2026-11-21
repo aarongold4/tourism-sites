@@ -1,0 +1,167 @@
+{
+ "_readme": "Booking buttons. One entry per page path; first item is the main button, others show as outline buttons. To track commissions, fill affiliate_ids (added to matching links automatically at build) or replace a url with your own tracking link. All links render rel=\"sponsored nofollow\" with the disclosure below.",
+ "disclosure": "Affiliate link: if you book through this button we may earn a commission, at no extra cost to you.",
+ "disclosure_href": "/affiliate-disclosure",
+ "affiliate_ids": {
+  "getyourguide_partner_id": "",
+  "viator_pid": "",
+  "tiqets_partner": "",
+  "booking_aid": ""
+ },
+ "routes": {
+  "/things-to-do": [
+   {
+    "label": "Compare North Macedonia tours",
+    "url": "https://www.getyourguide.com/s/?q=North+Macedonia+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/hiking": [
+   {
+    "label": "See guided hikes",
+    "url": "https://www.getyourguide.com/s/?q=North+Macedonia+hiking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/galicica-national-park": [
+   {
+    "label": "See Galičica tours",
+    "url": "https://www.getyourguide.com/s/?q=Galicica+National+Park+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/pelister-national-park": [
+   {
+    "label": "See Pelister tours",
+    "url": "https://www.getyourguide.com/s/?q=Pelister+National+Park+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/wine-tasting-tikves": [
+   {
+    "label": "See Tikveš wine tours",
+    "url": "https://www.getyourguide.com/s/?q=Tikves+wine+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/kayaking-matka": [
+   {
+    "label": "See Matka kayak tours",
+    "url": "https://www.getyourguide.com/s/?q=Matka+Canyon+kayaking",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/paragliding-krusevo": [
+   {
+    "label": "See Kruševo paragliding",
+    "url": "https://www.getyourguide.com/s/?q=Krusevo+paragliding",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/monasteries": [
+   {
+    "label": "See monastery tours",
+    "url": "https://www.getyourguide.com/s/?q=North+Macedonia+monasteries+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/festivals": [
+   {
+    "label": "See North Macedonia tours",
+    "url": "https://www.getyourguide.com/s/?q=North+Macedonia+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/ohrid/old-town": [
+   {
+    "label": "See Ohrid walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Ohrid+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/ohrid/st-john-kaneo": [
+   {
+    "label": "Tours that include St. John at Kaneo",
+    "url": "https://www.getyourguide.com/s/?q=Ohrid+boat+tour+Kaneo",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/ohrid/samuel-fortress": [
+   {
+    "label": "See Ohrid walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Ohrid+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/ohrid/st-naum-monastery": [
+   {
+    "label": "See St. Naum tours",
+    "url": "https://www.getyourguide.com/s/?q=Ohrid+St+Naum+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/ohrid/boat-tours": [
+   {
+    "label": "See Ohrid boat tours",
+    "url": "https://www.getyourguide.com/s/?q=Lake+Ohrid+boat+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/ohrid/bay-of-bones": [
+   {
+    "label": "See Bay of Bones tours",
+    "url": "https://www.getyourguide.com/s/?q=Ohrid+Bay+of+Bones+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/skopje/old-bazaar": [
+   {
+    "label": "See Skopje walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Skopje+Old+Bazaar+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/skopje/matka-canyon": [
+   {
+    "label": "See Matka Canyon tours",
+    "url": "https://www.getyourguide.com/s/?q=Matka+Canyon+tour+from+Skopje",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/skopje/mount-vodno": [
+   {
+    "label": "See Mount Vodno tours",
+    "url": "https://www.getyourguide.com/s/?q=Skopje+Millennium+Cross+Vodno+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/skopje/stone-bridge-square": [
+   {
+    "label": "See Skopje walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Skopje+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/skopje/museums": [
+   {
+    "label": "See Skopje city tours",
+    "url": "https://www.getyourguide.com/s/?q=Skopje+city+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/skopje/day-trips": [
+   {
+    "label": "Compare day trips from Skopje",
+    "url": "https://www.getyourguide.com/s/?q=day+trip+from+Skopje",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/destinations/stobi": [
+   {
+    "label": "See Stobi tours",
+    "url": "https://www.getyourguide.com/s/?q=Stobi+tour",
+    "provider": "GetYourGuide"
+   }
+  ]
+ }
+}

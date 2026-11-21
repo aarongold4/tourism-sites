@@ -1,0 +1,182 @@
+{
+ "_readme": "Booking buttons for petratourism.com. One entry per page path; first item is the main button, any others show as outline buttons. To use affiliate tracking, replace each url with your tracking link (or add your partner parameter). Every link is rendered rel=\"sponsored nofollow\" with the disclosure below.",
+ "disclosure": "Affiliate link: if you book through this button we may earn a commission, at no extra cost to you.",
+ "disclosure_href": "/affiliate-disclosure",
+ "affiliate_ids": {
+  "getyourguide_partner_id": "",
+  "viator_pid": "",
+  "tiqets_partner": "",
+  "booking_aid": ""
+ },
+ "routes": {
+  "/tours": [
+   {
+    "label": "Compare Petra tours",
+    "url": "https://www.getyourguide.com/s/?q=Petra+tour",
+    "provider": "GetYourGuide"
+   },
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   }
+  ],
+  "/tours/from-amman": [
+   {
+    "label": "See Petra day tours from Amman",
+    "url": "https://www.getyourguide.com/s/?q=Petra+day+trip+from+Amman",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/private": [
+   {
+    "label": "See private Petra tours",
+    "url": "https://www.getyourguide.com/s/?q=Petra+private+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/from-aqaba": [
+   {
+    "label": "See Petra tours from Aqaba",
+    "url": "https://www.getyourguide.com/s/?q=Petra+day+trip+from+Aqaba",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/from-eilat": [
+   {
+    "label": "See Petra tours from Eilat",
+    "url": "https://www.getyourguide.com/s/?q=Petra+day+trip+from+Eilat",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/multi-day": [
+   {
+    "label": "See multi-day Jordan tours with Petra",
+    "url": "https://www.getyourguide.com/s/?q=Jordan+multi-day+tour+Petra+Wadi+Rum",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/photography": [
+   {
+    "label": "See Petra photography tours",
+    "url": "https://www.getyourguide.com/s/?q=Petra+photography+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do": [
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   },
+   {
+    "label": "Book a guided Petra tour",
+    "url": "https://www.getyourguide.com/s/?q=Petra+guided+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/the-treasury": [
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   },
+   {
+    "label": "Guided Treasury & Siq walk",
+    "url": "https://www.getyourguide.com/s/?q=Petra+Treasury+guided+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/the-monastery": [
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   },
+   {
+    "label": "Guided Monastery hike",
+    "url": "https://www.getyourguide.com/s/?q=Petra+Monastery+hike+guided",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/main-trail": [
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   },
+   {
+    "label": "Guided main-trail tour",
+    "url": "https://www.getyourguide.com/s/?q=Petra+guided+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/monastery-hike": [
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   },
+   {
+    "label": "Guided Monastery hike",
+    "url": "https://www.getyourguide.com/s/?q=Petra+Monastery+hike+guided",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/the-siq": [
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   },
+   {
+    "label": "Guided Siq walk",
+    "url": "https://www.getyourguide.com/s/?q=Petra+Siq+guided+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/royal-tombs": [
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   },
+   {
+    "label": "Guided Royal Tombs tour",
+    "url": "https://www.getyourguide.com/s/?q=Petra+Royal+Tombs+guided+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/petra-by-night": [
+   {
+    "label": "Get Petra by Night tickets",
+    "url": "https://www.getyourguide.com/s/?q=Petra+by+Night",
+    "provider": "GetYourGuide"
+   },
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   }
+  ],
+  "/things-to-do/high-place-of-sacrifice": [
+   {
+    "label": "Buy Petra entry with Jordan Pass",
+    "url": "https://www.jordanpass.jo/",
+    "provider": "Jordan Pass (official)"
+   },
+   {
+    "label": "Guided High Place of Sacrifice hike",
+    "url": "https://www.getyourguide.com/s/?q=Petra+High+Place+of+Sacrifice+hike",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-do/little-petra": [
+   {
+    "label": "See Little Petra tours",
+    "url": "https://www.getyourguide.com/s/?q=Little+Petra+Siq+al-Barid+tour",
+    "provider": "GetYourGuide"
+   }
+  ]
+ }
+}

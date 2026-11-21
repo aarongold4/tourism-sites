@@ -1,0 +1,46 @@
+name: build-and-deploy
+# Push to main -> build + audit every tourism site -> publish each site's dist to its own deploy-<domain> branch.
+# Hostinger (Git auto-deploy) pulls deploy-<domain> into that site's public_html.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+jobs:
+  site:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        domain: [petratourism.com, gizatourism.com, tbilisitourism.com, tashkenttourism.com, northmacedoniatourism.com]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - name: Build
+        run: node tools/build.mjs ${{ matrix.domain }}
+      - name: Audit (blocks deploy on any failure)
+        run: node tools/audit.mjs ${{ matrix.domain }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: "report-${{ matrix.domain }}", path: "reports/" }
+      - name: Publish to deploy-${{ matrix.domain }}
+        env:
+          D: ${{ matrix.domain }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd "dist/$D"
+          git init -q -b "deploy-$D"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Deploy $D from ${GITHUB_SHA::7}"
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:deploy-$D"
+          echo "Published deploy-$D"

@@ -1,0 +1,70 @@
+{
+ "ideas": [
+  {
+   "id": "2026-11-21-1",
+   "date": "2026-11-21",
+   "title": "The Roman Theatre at Petra",
+   "path": "/things-to-do/roman-theatre",
+   "section": "/things-to-do",
+   "search_phrase": "petra roman theatre",
+   "why": "Already linked from existing Petra pages but never written; currently a temporary redirect.",
+   "priority": 1,
+   "status": "proposed"
+  },
+  {
+   "id": "2026-11-21-2",
+   "date": "2026-11-21",
+   "title": "The Great Temple of Petra",
+   "path": "/things-to-do/great-temple",
+   "section": "/things-to-do",
+   "search_phrase": "petra great temple",
+   "why": "Already linked from existing Petra pages but never written; currently a temporary redirect.",
+   "priority": 1,
+   "status": "proposed"
+  },
+  {
+   "id": "2026-11-21-3",
+   "date": "2026-11-21",
+   "title": "Qasr al-Bint: Petra's Main Temple",
+   "path": "/things-to-do/qasr-al-bint",
+   "section": "/things-to-do",
+   "search_phrase": "qasr al bint petra",
+   "why": "Already linked from existing Petra pages but never written; currently a temporary redirect.",
+   "priority": 1,
+   "status": "proposed"
+  },
+  {
+   "id": "2026-11-21-4",
+   "date": "2026-11-21",
+   "title": "Petra's Colonnaded Street",
+   "path": "/things-to-do/colonnaded-street",
+   "section": "/things-to-do",
+   "search_phrase": "petra colonnaded street",
+   "why": "Already linked from existing Petra pages but never written; currently a temporary redirect.",
+   "priority": 1,
+   "status": "proposed"
+  },
+  {
+   "id": "2026-11-21-5",
+   "date": "2026-11-21",
+   "title": "The Al-Khubtha Trail: Treasury Viewpoint Hike",
+   "path": "/things-to-do/al-khubtha-trail",
+   "section": "/things-to-do",
+   "search_phrase": "al khubtha trail petra",
+   "why": "Already linked from existing Petra pages but never written; currently a temporary redirect.",
+   "priority": 1,
+   "status": "proposed"
+  },
+  {
+   "id": "2026-11-21-6",
+   "date": "2026-11-21",
+   "title": "Jebel Haroun (Aaron's Tomb) Hike from Petra",
+   "path": "/things-to-do/jebel-haroun",
+   "section": "/things-to-do",
+   "search_phrase": "jebel haroun hike",
+   "why": "Already linked from existing Petra pages but never written; currently a temporary redirect.",
+   "priority": 1,
+   "status": "proposed"
+  }
+ ]
+}

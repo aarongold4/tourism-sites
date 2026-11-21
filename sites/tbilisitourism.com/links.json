@@ -1,0 +1,132 @@
+{
+ "_readme": "Booking buttons. One entry per page path; first item is the main button, others show as outline buttons. To track commissions, fill affiliate_ids (added to matching links automatically at build) or replace a url with your own tracking link. All links render rel=\"sponsored nofollow\" with the disclosure below.",
+ "disclosure": "Affiliate link: if you book through this button we may earn a commission, at no extra cost to you.",
+ "disclosure_href": "/affiliate-disclosure",
+ "affiliate_ids": {
+  "getyourguide_partner_id": "",
+  "viator_pid": "",
+  "tiqets_partner": "",
+  "booking_aid": ""
+ },
+ "routes": {
+  "/tours": [
+   {
+    "label": "Compare Tbilisi tours",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/old-town-walking": [
+   {
+    "label": "See Old Town walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+Old+Town+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/food-tours": [
+   {
+    "label": "See Tbilisi food tours",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+food+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/free-walking-tours": [
+   {
+    "label": "See Tbilisi walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/tours/private": [
+   {
+    "label": "See private Tbilisi tours",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+private+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see": [
+   {
+    "label": "Book a Tbilisi city tour",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+city+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/narikala-fortress": [
+   {
+    "label": "Tours that include Narikala",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+Narikala+Fortress+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/sulfur-baths": [
+   {
+    "label": "Book a sulfur bath visit",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+sulfur+baths",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/old-town": [
+   {
+    "label": "See Old Town walking tours",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+Old+Town+walking+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/mtatsminda": [
+   {
+    "label": "Tours that include Mtatsminda",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+Mtatsminda+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/sameba-cathedral": [
+   {
+    "label": "Tours that include Sameba",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+Holy+Trinity+Cathedral+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/things-to-see/dry-bridge-market": [
+   {
+    "label": "Book a Tbilisi city tour",
+    "url": "https://www.getyourguide.com/s/?q=Tbilisi+city+tour",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips": [
+   {
+    "label": "Compare day trips from Tbilisi",
+    "url": "https://www.getyourguide.com/s/?q=day+trip+from+Tbilisi",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/kazbegi": [
+   {
+    "label": "See Kazbegi day trips",
+    "url": "https://www.getyourguide.com/s/?q=Kazbegi+day+trip+from+Tbilisi",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/mtskheta": [
+   {
+    "label": "See Mtskheta day trips",
+    "url": "https://www.getyourguide.com/s/?q=Mtskheta+day+trip+from+Tbilisi",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/kakheti-wine-region": [
+   {
+    "label": "See Kakheti wine tours",
+    "url": "https://www.getyourguide.com/s/?q=Kakheti+wine+tour+from+Tbilisi",
+    "provider": "GetYourGuide"
+   }
+  ],
+  "/day-trips/uplistsikhe-gori": [
+   {
+    "label": "See Uplistsikhe & Gori day trips",
+    "url": "https://www.getyourguide.com/s/?q=Uplistsikhe+Gori+day+trip+from+Tbilisi",
+    "provider": "GetYourGuide"
+   }
+  ]
+ }
+}

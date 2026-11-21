@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://petratourism.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- Pillars -->
+  <url><loc>https://petratourism.com/tours</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/tours/from-amman</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/tours/private</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/tours/from-aqaba</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/tours/from-eilat</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/tours/multi-day</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/tours/photography</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/hotels</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/hotels/movenpick-petra</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/petra-guest-house</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/luxury</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/mid-range</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/budget</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/petra-marriott</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/petra-moon-hotel</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/movenpick-nabatean-castle</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/old-village-resort</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/hotels/tayba-ridge</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/town-centre</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/hotels/visitor-centre-strip</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/things-to-do</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/itineraries</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/getting-there</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/getting-there/jett-bus</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/getting-there/kings-highway</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/getting-there/rental-car</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/getting-there/from-wadi-rum</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/getting-there/taxi</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/getting-there/shared-taxi</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://petratourism.com/plan</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/history</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/jordan</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Things to Do spokes -->
+  <url><loc>https://petratourism.com/things-to-do/the-treasury</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/things-to-do/the-monastery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/things-to-do/main-trail</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/things-to-do/monastery-hike</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/things-to-do/the-siq</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/things-to-do/royal-tombs</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/things-to-do/petra-by-night</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/things-to-do/high-place-of-sacrifice</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/things-to-do/little-petra</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Itineraries spokes -->
+  <url><loc>https://petratourism.com/itineraries/one-day</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/itineraries/two-days</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/itineraries/three-days</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/itineraries/three-days-petra-wadi-rum</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/itineraries/petra-and-wadi-rum</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/itineraries/seven-days-jordan</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/itineraries/five-days-jordan</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/itineraries/from-israel</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/itineraries/from-egypt</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Getting There spokes -->
+  <url><loc>https://petratourism.com/getting-there/from-amman</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/getting-there/from-aqaba</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/getting-there/from-eilat</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Plan spokes -->
+  <url><loc>https://petratourism.com/plan/best-time-to-visit</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/plan/opening-hours</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/plan/how-many-days</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/plan/entrance-fees</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/plan/jordan-pass</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/plan/what-to-bring</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/plan/what-to-wear</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/plan/with-kids</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/plan/accessibility</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/plan/safety</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/plan/petra-map</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- History spokes -->
+  <url><loc>https://petratourism.com/history/the-nabataeans</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/burckhardt-rediscovery</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/aretas-iv</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/history/nabataean-water</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/history/363-earthquake</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/the-bdoul</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/history/incense-road</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/history/nabataean-architecture</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/history/nabataean-religion</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/roman-annexation</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/byzantine-petra</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/19th-century-explorers</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/seven-wonders</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/crusaders</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/modern-archaeology</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/history/unesco-1985</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Jordan spokes -->
+  <url><loc>https://petratourism.com/jordan/visa</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/jordan/jordan-pass-vs-visa</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/jordan/wadi-musa-town</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Editorial -->
+  <url><loc>https://petratourism.com/jordan/wadi-rum</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/jordan/jerash</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/jordan/amman</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/jordan/dead-sea</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://petratourism.com/jordan/aqaba</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://petratourism.com/jordan/food</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/jordan/currency</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/jordan/sim-cards</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/jordan/tipping</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/jordan/atms-and-cards</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/jordan/dress-code</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://petratourism.com/jordan/language</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://petratourism.com/about</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://petratourism.com/editorial-standards</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://petratourism.com/affiliate-disclosure</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://petratourism.com/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://petratourism.com/terms</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://petratourism.com/cookies</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://petratourism.com/contact</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+</urlset>
