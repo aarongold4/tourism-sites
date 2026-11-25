@@ -1,0 +1,13 @@
+# tashkenttourism.com changelog
+
+Fact fixes made by the weekly audit. Format: date: page: old → new (source).
+
+## 2026-11-25 (weekly audit, ISO week 48)
+
+- /things-to-do/hazrat-imam-complex: the Uthman Quran "kept in the library on the square" → it moved from the Muyi Muborak library to the Center of Islamic Civilization on 13 Nov 2025 and is shown in its Holy Qur'an Hall. Updated the dek, the body paragraph and the FAQ answer. Sources: https://iccu.uz/en/news/1774, https://society.uz/news/detail/news/2365 (4 Dec 2025), https://en.wikipedia.org/wiki/Hazrati_Imam_Complex
+- /things-to-do/hazrat-imam-complex: "the Tilla Sheikh Mosque, the city's main Friday mosque" → Tilla Sheikh Mosque, plus the twin-minareted Hazrat Imam Friday Mosque built in 2007. Fixed the image alt text the same way ("Hazrat Imam (Tilla Sheikh) Friday mosque" → "Hazrat Imam Friday mosque"). Sources: https://en.wikipedia.org/wiki/Hazrati_Imam_Complex, https://www.advantour.com/us/uzbekistan/tashkent/khast-imam.htm, https://oxusroad.com/en/travel-guide/islamic-civilization-center/
+- /things-to-do (hub blurb and FAQ): "home to the world's oldest Quran" → for centuries the home of the Quran, which is now in the Center of Islamic Civilization. Sources: as above.
+- /old-city/barak-khan-madrasa (body and FAQ): "the library that holds / housing the Uthman Quran" → the Muyi Muborak library, former home of the Quran (moved Nov 2025). Sources: as above.
+- /things-to-do/center-islamic-civilization: "opened in phases … hours and ticketing settling in" → inaugurated March 2026; open daily 9:00–22:00 in timed two-hour sessions; standard foreign adult ticket 425,000 som with audio guide; the Uthman Quran is displayed there. Sources: https://iccu.uz/en/about/visitor-info, https://iticket.uz/en/events/concerts/center-of-islamic-civilization, https://www.afisha.uz/ru/gorod/2026/03/19/iccu
+- /day-trips/samarkand (body and FAQ): Afrosiyob economy "15–25 US dollars" → about 311,000 som (about 26 USD), business 455,000 and VIP 709,000 since the 15% fare rise of 1 Feb 2026. Sources: https://kun.uz/en/news/2026/01/16/uzbekistan-railways-raises-train-fares-again-from-february-1 (16 Jan 2026), spot.uz (16 Jan 2026). The USD figure uses the CBU rate of 12,023.61 UZS on 17 Nov 2026: https://zamin.uz/en/economy/227301-exchange-rates-for-november-17-announced-2.html
+- /plan-your-trip/visa-and-entry (body and FAQ): added the US to the visa-free list. US citizens have had 30 days visa-free since 1 Jan 2026. Sources: https://kun.uz/en/news/2025/12/24/uzbekistan-introduces-30-day-visa-free-entry-for-us-citizens-from-january-1, https://timesca.com/uzbekistan-introduces-visa-free-travel-for-u-s-citizens-starting-january-2026/

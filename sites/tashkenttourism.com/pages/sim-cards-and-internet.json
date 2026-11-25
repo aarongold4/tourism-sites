@@ -1,0 +1,73 @@
+{
+ "path": "/plan-your-trip/sim-cards-and-internet",
+ "title": "SIM Cards, eSIMs and Mobile Data in Uzbekistan",
+ "description": "Which network to pick, buying a SIM at Tashkent airport, 2026 data prices, the IMEI registration rule for visitors, and when an eSIM makes more sense.",
+ "section": "/plan-your-trip",
+ "eyebrow": "PLAN YOUR TRIP",
+ "dateline": "Last reviewed November 2026",
+ "updated": "2026-11-25",
+ "status": "draft",
+ "body_html": "<p>In Uzbekistan, mobile data is not optional. The Yandex Go taxi app, which is how most visitors get around Tashkent, needs a phone number for verification and a live connection to book a ride. Maps, translation apps and train e-tickets all depend on data too. The good news is that a local SIM is cheap and generous. The less obvious news is that Uzbekistan registers phones by their IMEI, and travellers who stay a while need to understand the rule. This guide covers the operators, where to buy, what it costs and how eSIMs compare, as of November 2026.</p>\n\n<h2>The four networks</h2>\n<p>Uzbekistan has four mobile operators: Beeline, Ucell, Mobiuz and Uztelecom, which sells as Uzmobile. All four cover Tashkent well. The most recent independent measurement, Opensignal's March 2026 report, found the leaders spread across the field:</p>\n<ul>\n<li>Ucell took the awards for download speed (22.9 Mbps on average), consistent quality and reliability.</li>\n<li>Uztelecom scored highest for coverage experience and time on network.</li>\n<li>Beeline had the fastest uploads.</li>\n</ul>\n<p>The practical takeaway is that there is no bad choice in the capital. Travel guides disagree on which network is best on the Silk Road route. Beeline and Ucell, the two with desks at the airport and simple tourist offers, are the easiest to start with. Expect good 4G in the centres of Samarkand and Bukhara and patchier signal in the mountains around <a href=\"/day-trips/chimgan-and-charvak\">Chimgan and Charvak</a>.</p>\n\n<h2>Buying a SIM at the airport</h2>\n<p>Beeline and Ucell both have sales desks in the international arrivals area at Tashkent airport. Expect to need:</p>\n<ul>\n<li>Your original passport. Staff scan it and register the SIM in your name, and this is a legal requirement.</li>\n<li>About 10 to 20 minutes per person, longer if a flight has just landed.</li>\n<li>A way to pay. Carry some som in cash in case the desk can't take your card.</li>\n</ul>\n<p>Don't count on the desks if you land in the middle of the night. Their published hours vary and some close in the late evening. If they are shut, order your first taxi on airport Wi-Fi or use an official taxi (see <a href=\"/plan-your-trip/getting-around\">Getting Around</a>), and buy a SIM in the city the next morning.</p>\n\n<h2>Buying in the city</h2>\n<p>Every operator has branded shops across central Tashkent, and buying there works the same way: passport, a few minutes, done. Buy only from official operator shops. A SIM bought from a street kiosk may not be properly registered to your passport and can be cut off later. Ucell also lets foreign visitors register a SIM themselves in the Ucell app. Ucell SIMs are on sale in some supermarket chains and on local online marketplaces, which helps if you arrive with no time to visit a shop.</p>\n\n<h2>What it costs</h2>\n<p>Prices change often and tourist plans come and go, so treat these as a snapshot. Beeline's \"Hello\" plans for foreigners and tourists are the clearest published offer. Its official data add-ons were priced like this in November 2026:</p>\n<table>\n<tr><th>Data</th><th>Valid for</th><th>Price</th></tr>\n<tr><td>4 GB</td><td>1 day</td><td>10,000 som</td></tr>\n<tr><td>7 GB</td><td>7 days</td><td>30,000 som</td></tr>\n<tr><td>10 GB (+5 GB YouTube)</td><td>30 days</td><td>50,000 som</td></tr>\n<tr><td>20 GB (+10 GB YouTube)</td><td>30 days</td><td>70,000 som</td></tr>\n<tr><td>50 GB (+25 GB YouTube)</td><td>30 days</td><td>100,000 som</td></tr>\n</table>\n<p>At about 12,000 som to the dollar, even the 50 GB add-on costs under 10 US dollars. Beeline does not publish the price of the base plan, so ask at the desk. Other operators' tourist plans are in a similar range, but several older tourist tariffs have been withdrawn for new customers. Ask in the shop which plan is currently sold to visitors rather than relying on a blog post's tariff name. The Hello plans don't work in roaming, so they are for use inside Uzbekistan only.</p>\n\n<h2>IMEI registration: what visitors need to know</h2>\n<p>Uzbekistan keeps a register of the phones on its networks, called UZIMEI. Phones that should be registered and are not get blocked from local networks after a grace period. For short trips it is simple:</p>\n<ul>\n<li>If you only use your home SIM in roaming, or a foreign eSIM, there is nothing to register.</li>\n<li>If you put a local SIM in your own phone, the phone works unregistered for a grace period. Mobiuz's official guidance gives 60 days for foreigners. Some recent reports, including Gazeta.uz in November 2026, describe 30 days. A trip of under a month is covered on either reading.</li>\n<li>If you are staying longer, register the phone online at uzimei.uz (open around the clock for non-residents), at a post office, or through your operator. The phone must be registered to the same passport as the local SIM. It is not free: in November 2026 the fee was reported at 88,000 som within the first 30 days and 110,000 som after that.</li>\n</ul>\n<p>To find your phone's IMEI, dial *#06#. Phones you bring in normal use are fine to take through customs. Rules for brand-new boxed handsets are stricter and were briefly in the news in November 2026, so don't bring new phones as gifts without checking first.</p>\n\n<h2>eSIMs: the convenient alternative</h2>\n<p>International travel eSIMs work in Uzbekistan, and most run on the Beeline network. Their advantages are real: you can install one before you fly, you are online the moment you land, and there is no passport check at a counter. The downsides are just as real:</p>\n<ul>\n<li>They cost several times more per gigabyte than a local SIM.</li>\n<li>Most are data-only, with no local number. That can be a problem for apps that verify by text message, including Yandex Go.</li>\n<li>You are tied to one network.</li>\n</ul>\n<p>Local operators do offer eSIMs, but whether a visitor can get one varies by operator and by shop. If you want one, ask at an official store. A good compromise for a longer trip is a travel eSIM for arrival day and a local SIM once you are in the city.</p>\n\n<h2>Wi-Fi, apps and VPNs</h2>\n<p>Hotels and many cafés offer Wi-Fi, but speed and reliability vary. Treat it as a backup rather than your main connection, and be careful with sensitive logins on open networks. WhatsApp, Telegram, Instagram, Facebook and YouTube all work normally. Telegram is widely used in Uzbekistan, including by many hotels and guides, so it is worth having. TikTok has been blocked since 2021, and X (Twitter) can be unreliable. Many visitors install a VPN before they leave home. Their legal status is not clearly defined. Reports suggest ordinary use is tolerated, but don't rely on one for anything essential.</p>\n\n<h2>Our recommendation</h2>\n<ul>\n<li>Install Yandex Go and an offline map before you fly.</li>\n<li>For a trip of a week or more, buy a local Beeline or Ucell SIM at the airport or in town with your passport. It is cheap and gives you a number for app verification.</li>\n<li>For a very short stop, or a late-night arrival, a travel eSIM saves time.</li>\n<li>Staying longer than a month on a local SIM? Register your phone's IMEI at uzimei.uz early, while the fee is lower.</li>\n</ul>\n<p>With data sorted, the rest of the logistics fall into place. See <a href=\"/plan-your-trip\">Plan Your Trip</a> for the full checklist and <a href=\"/plan-your-trip/money-and-costs\">Money &amp; Costs</a> for cards and cash.</p>",
+ "sources": [
+  {
+   "url": "https://insights.opensignal.com/reports/2026/03/uzbekistan/mobile-network-experience",
+   "title": "Opensignal: Uzbekistan Mobile Network Experience (March 2026)",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://beeline.uz/en/welcome-new",
+   "title": "Beeline Uzbekistan: Hello plans for foreigners and tourists",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://ucell.uz/en/news/plan_works_selfreg1206",
+   "title": "Ucell: Self-registration of SIM cards for foreign citizens (12 Jun 2026)",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://mobi.uz/en/support/imei/",
+   "title": "Mobiuz: IMEI registration in Uzbekistan",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://www.gazeta.uz/en/2026/11/11/uzimei/",
+   "title": "Gazeta.uz: Customs clearance of new phones at Tashkent airport (11 Nov 2026)",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://www.uzdaily.uz/ru/cards/registratsiya-imei-kodov-uzbekistan/",
+   "title": "UzDaily: IMEI registration rules for residents and foreigners (9 Oct 2026)",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://uzimei.uz/",
+   "title": "UZIMEI official registration portal",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://www.traveltomtom.net/destinations/asia/uzbekistan/sim-card-tashkent",
+   "title": "Traveltomtom: Buying a SIM card at Tashkent airport (Mar 2026)",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://tourfixer.uz/en/blog/arriving-tashkent-airport-survival-guide-2026",
+   "title": "Tourfixer: Tashkent airport arrival guide 2026",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://voyage.uz/guides/transport-yandex-go/",
+   "title": "Voyage.uz: Yandex Go guide (2026)",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://www.nomadwise.io/blog/best-vpn-uzbekistan",
+   "title": "Nomadwise: VPN and blocked sites in Uzbekistan (Oct 2026)",
+   "accessed": "2026-11-25"
+  },
+  {
+   "url": "https://sogdiaroam.com/travel/uzbekistan/connectivity-faq",
+   "title": "Sogdiaroam: Uzbekistan connectivity FAQ (Oct 2026)",
+   "accessed": "2026-11-25"
+  }
+ ]
+}

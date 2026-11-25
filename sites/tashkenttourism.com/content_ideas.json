@@ -1,3 +1,103 @@
 {
- "ideas": []
+ "ideas": [
+  {
+   "id": "tk-001",
+   "date": "2026-11-25",
+   "title": "How to Buy Train Tickets in Uzbekistan",
+   "path": "/plan-your-trip/train-tickets",
+   "section": "/plan-your-trip",
+   "search_phrase": "how to buy train tickets uzbekistan",
+   "why": "Every Silk Road trip depends on Afrosiyob tickets; ranking pages (OrexCA) still show 2020-era payment rules, and 2026 brought a fare rise, Stripe card payments and the new Khiva train.",
+   "priority": 1,
+   "status": "drafted"
+  },
+  {
+   "id": "tk-002",
+   "date": "2026-11-25",
+   "title": "SIM Cards, eSIMs and Mobile Data in Uzbekistan",
+   "path": "/plan-your-trip/sim-cards-and-internet",
+   "section": "/plan-your-trip",
+   "search_phrase": "uzbekistan sim card tourist",
+   "why": "High-intent planning search dominated by eSIM sellers; the site tells readers to buy a SIM but never explains how, or the IMEI rule.",
+   "priority": 1,
+   "status": "drafted"
+  },
+  {
+   "id": "tk-003",
+   "date": "2026-11-25",
+   "title": "The Best Museums in Tashkent",
+   "path": "/things-to-do/tashkent-museums",
+   "section": "/things-to-do",
+   "search_phrase": "best museums in tashkent",
+   "why": "The site says Tashkent has the country's best museums but has no museum page; 2026 reopenings and closures make competing guides out of date.",
+   "priority": 1,
+   "status": "drafted"
+  },
+  {
+   "id": "tk-004",
+   "date": "2026-11-25",
+   "title": "Navoi Theatre: Opera and Ballet in Tashkent",
+   "path": "/things-to-do/navoi-theatre",
+   "section": "/things-to-do",
+   "search_phrase": "navoi theatre tashkent tickets",
+   "why": "Landmark with a site photo already in the bundle but no page; travellers search for tickets and dress code.",
+   "priority": 2,
+   "status": "proposed"
+  },
+  {
+   "id": "tk-005",
+   "date": "2026-11-25",
+   "title": "Tashkent Itinerary: 1, 2 and 3 Days",
+   "path": "/plan-your-trip/tashkent-itinerary",
+   "section": "/plan-your-trip",
+   "search_phrase": "tashkent itinerary 2 days",
+   "why": "Very common planning query; the home page sketches a day but there is no dedicated itinerary page.",
+   "priority": 2,
+   "status": "proposed"
+  },
+  {
+   "id": "tk-006",
+   "date": "2026-11-25",
+   "title": "Tashkent TV Tower",
+   "path": "/things-to-do/tashkent-tv-tower",
+   "section": "/things-to-do",
+   "search_phrase": "tashkent tv tower tickets",
+   "why": "Popular viewpoint with a site photo but no page; search interest in tickets and hours.",
+   "priority": 2,
+   "status": "proposed"
+  },
+  {
+   "id": "tk-007",
+   "date": "2026-11-25",
+   "title": "Tashkent Airport Arrival Guide",
+   "path": "/plan-your-trip/tashkent-airport",
+   "section": "/plan-your-trip",
+   "search_phrase": "tashkent airport arrival",
+   "why": "Getting Around covers the taxi only; arrivals, terminals, money, SIM and transfers deserve a dedicated page.",
+   "priority": 3,
+   "status": "proposed"
+  },
+  {
+   "id": "tk-008",
+   "date": "2026-11-25",
+   "title": "Tashkent City Park and Magic City",
+   "path": "/things-to-do/tashkent-city-park",
+   "section": "/things-to-do",
+   "search_phrase": "magic city tashkent",
+   "why": "New leisure districts many visitors search for; not covered.",
+   "priority": 3,
+   "status": "proposed"
+  },
+  {
+   "id": "tk-009",
+   "date": "2026-11-25",
+   "title": "Minor Mosque",
+   "path": "/things-to-do/minor-mosque",
+   "section": "/things-to-do",
+   "search_phrase": "minor mosque tashkent",
+   "why": "Photogenic white mosque on the Ankhor canal with a site photo but no page.",
+   "priority": 3,
+   "status": "proposed"
+  }
+ ]
 }
